@@ -1,0 +1,13 @@
+#只上传Assets中的文件
+Temp/
+Library/
+obj/
+Package/
+ProjectSettings/
+
+#忽略的文件
+*.fbx
+*.csproj
+*.sln
+*.suo
+*.meta
