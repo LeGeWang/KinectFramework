@@ -449,6 +449,7 @@ public class KinectManager : MonoBehaviour
 				jointDir.x = -jointDir.x;
 			
 			if(flipZ)
+
 				jointDir.z = -jointDir.z;
 		}
 		
